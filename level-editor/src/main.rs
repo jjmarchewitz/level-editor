@@ -1,4 +1,7 @@
 mod app;
+mod audio_player;
+mod brushes;
+mod grid;
 
 use app::*;
 use leptos::*;
